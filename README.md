@@ -7,10 +7,13 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 ---
 
-## Courses/Certifications
+## Courses Completed
 (To be updated)
 
 - [ ] HTML
+  - [ ] Basic HTML
+    - [x] Build a curriculum online
+    - [x] Debug Camperbot's Profile Page       
 
 ---
 
