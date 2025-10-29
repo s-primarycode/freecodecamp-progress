@@ -12,7 +12,7 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 - [ ] HTML
   - [ ] Basic HTML
-    - [x] Build a curriculum online
+    - [x] Build a curriculum outline
     - [x] Debug Camperbot's Profile Page       
 
 ---
