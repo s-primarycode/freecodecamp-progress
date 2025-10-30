@@ -12,13 +12,13 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 - [ ] HTML
   - [ ] Basic HTML
-    - [x] Build a Curriculum Outline
-    - [x] Debug Camperbot's Profile Page
-    - [x] Understanding HTML Attributes
-    - [x] Debug a Pet Adoption Page
-    - [x] Understanding the HTML Boilerplate
+    - [x] Build a Curriculum Outline (completed a couple months ago)
+    - [x] Debug Camperbot's Profile Page (oct 28)
+    - [x] Understanding HTML Attributes (oct 28)
+    - [x] Debug a Pet Adoption Page (oct 29)
+    - [x] Understanding the HTML Boilerplate (oct 29)
     - [x] Build a Cat Photo App (completed a couple months ago)
-    - [x] Build a Recipe Page
+    - [x] Build a Recipe Page (oct 29)
 
 ---
 
