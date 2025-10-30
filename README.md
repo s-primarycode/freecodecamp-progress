@@ -18,6 +18,7 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
     - [x] Debug a Pet Adoption Page
     - [x] Understanding the HTML Boilerplate
     - [x] Build a Cat Photo App (completed a couple months ago)
+    - [x] Build a Recipe Page
 
 ---
 
