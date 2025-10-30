@@ -12,8 +12,12 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 - [ ] HTML
   - [ ] Basic HTML
-    - [x] Build a curriculum outline
-    - [x] Debug Camperbot's Profile Page       
+    - [x] Build a Curriculum Outline
+    - [x] Debug Camperbot's Profile Page
+    - [x] Understanding HTML Attributes
+    - [x] Debug a Pet Adoption Page
+    - [x] Understanding the HTML Boilerplate
+    - [x] Build a Cat Photo App (completed a couple months ago)
 
 ---
 
@@ -23,4 +27,4 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 ---
 
-Last updated: **October 28, 2025**
+Last updated: **October 29, 2025**
