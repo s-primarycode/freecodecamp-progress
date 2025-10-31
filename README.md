@@ -19,6 +19,7 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
     - [x] Understanding the HTML Boilerplate (oct 29)
     - [x] Build a Cat Photo App (completed a couple months ago)
     - [x] Build a Recipe Page (oct 29)
+    - [ ] 
 
 ---
 
@@ -28,4 +29,4 @@ Tracking my progress on the freeCodeCamp Full Stack Developer Curriculum.
 
 ---
 
-Last updated: **October 29, 2025**
+Last updated: **October 31, 2025**
